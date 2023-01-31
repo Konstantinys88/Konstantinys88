@@ -5,7 +5,7 @@
 ### __Мой стек технологий__
 
 ```
-__HTML,CSS,SASS,GIT,GULP__
+HTML, CSS, ASS, GIT, GULP
 ```
 
 ***
