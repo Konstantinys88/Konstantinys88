@@ -2,7 +2,7 @@
 
 ```
 Мой стек технологий
-HTML, CSS, SASS, GIT, GULP
+HTML, CSS, SASS, GIT, GULP, JS
 ```
 
 ***
